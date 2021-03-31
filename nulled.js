@@ -1,6 +1,3 @@
-var firstNum = prompt ("Введите первое число");
-var secondNum = prompt ("Введите второе число");
-var resultat = +firstNum + +secondNum;
+let name = prompt ("Введите ваше имя")
 
-
-document.writeln ("Итого: ", resultat);
+document.write (name)

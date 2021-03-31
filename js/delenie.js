@@ -1,6 +1,6 @@
-var firstNum = prompt ("Введите первое число");
-var secondNum = prompt ("Введите второе число");
-var resultat = firstNum / secondNum;
+let firstNum = prompt ("Введите первое число");
+let secondNum = prompt ("Введите второе число");
+let resultat = firstNum / secondNum;
 
 
 document.writeln ("Итого: ", resultat);
